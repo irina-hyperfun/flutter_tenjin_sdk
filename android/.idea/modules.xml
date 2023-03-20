@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tenjin/android.tenjin_sdk.tenjin.iml" filepath="$PROJECT_DIR$/.idea/modules/tenjin/android.tenjin_sdk.tenjin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tenjin_sdk.tenjin_sdk.unitTest~1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tenjin_sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/tenjin_sdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tenjin/tenjin_sdk.tenjin.iml" filepath="$PROJECT_DIR$/.idea/modules/tenjin/tenjin_sdk.tenjin.iml" />
     </modules>
